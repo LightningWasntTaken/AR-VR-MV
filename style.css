@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: linear-gradient(#43CBFF,
+#9708CC);
+  font-family: 'Solway', serif;
+}
+img{
+  border-style: solid;
+  border-color: black;
+  width: 20%;
+  border-radius: 20px;
+  height: 20%;
+}
+.lol{
+    border-style: solid;
+  border-color: black;
+  width: 20%;
+  border-radius: 20px;
+}
